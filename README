@@ -1,0 +1,7 @@
+DeckOfCards is a simple console program written in C++. It is a program to make a deck of cards.
+The user can choose a few options within a switch statement to either: 
+- Shuffle the deck
+- Look (print) at the deck of cards
+- Make a new deck
+- Draw a specified amount of cards from the deck.
+
